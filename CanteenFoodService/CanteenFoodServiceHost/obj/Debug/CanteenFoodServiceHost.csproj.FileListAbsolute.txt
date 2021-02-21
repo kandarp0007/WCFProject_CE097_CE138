@@ -1,0 +1,30 @@
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodServiceHost.exe.config
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodServiceHost.exe
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodServiceHost.pdb
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodService.dll
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodService.pdb
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodService.dll.config
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.csprojAssemblyReference.cache
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.csproj.CopyComplete
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.exe
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.pdb
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kandarp\source\repos\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodServiceHost.exe.config
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodServiceHost.exe
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodServiceHost.pdb
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodService.dll
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodService.pdb
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\CanteenFoodService.dll.config
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.csprojAssemblyReference.cache
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.csproj.CopyComplete
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.exe
+C:\Users\Suman A. Vadhel\OneDrive\Desktop\WCFProject_CE097_CE138\CanteenFoodService\CanteenFoodServiceHost\obj\Debug\CanteenFoodServiceHost.pdb
